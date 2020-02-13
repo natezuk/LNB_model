@@ -8,4 +8,4 @@ This code can be used to generate a regularized event-related potential (ERP) mo
 
 This model was used to quantify the predictability of phonemes, vowels, and consonants from EEG recorded during continuous listening to speech.  A conference paper based on this work can be found here, please cite it if you intend to use these functions:
 
-Zuk NJ, Di Liberto GL, Lalor EC (2019). Linear-nonlinear Bernoulli modeling for quantifying temporal coding of phonemes in continuous speech. Conference on Cognitive Computational Neuroscience, 13-16 September, Berlin, Germany. doi: [10.32470/CCN.2019.1192-0](https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1192)
+>Zuk NJ, Di Liberto GL, Lalor EC (2019). Linear-nonlinear Bernoulli modeling for quantifying temporal coding of phonemes in continuous speech. Conference on Cognitive Computational Neuroscience, 13-16 September, Berlin, Germany. doi: [10.32470/CCN.2019.1192-0](https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1192)
